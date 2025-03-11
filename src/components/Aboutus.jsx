@@ -1,6 +1,6 @@
 import { Skillcards } from "./Cards/Skillscards"
 export function Aboutus(){
-    return <div className="mt-20 sm:-mt-5 max-w-[1200px] mx-auto px-6">
+    return <div className="mt-20  max-w-[1200px] mx-auto px-6">
             <div id="Aboutid" className="h-full w-full">
                 <div className="text-4xl font-bold text-white flex justify-center sm:justify-start">About</div>
                 <div className="pt-2 text-sl font-bold text-white">I'm a FrontEnd Developer I Have more then 1.5years of experience in Technical Field. Proficiency in JavaScript, HTML, CSS, and Git. Learning React, Redux, Node.js, Express.js, Next.js. I bring a comprehensive skill set to the development landscape. My commitment to continual learning is evidenced by my quick adaptability and eagerness to broaden my knowledge base. Recognized as a dedicated team player, I am enthusiastic about collaborative efforts to conceive and deliver exceptional applications. My professional approach and passion for web development fuel my commitment to contributing meaningfully to collaborative projects I collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!</div>
