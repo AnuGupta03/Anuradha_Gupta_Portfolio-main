@@ -13,10 +13,10 @@ export function Navbar() {
                 <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="flex justify-between items-center h-16">
                         {/* Left - Brand Name */}
-                        <h1 className="text-xl font-bold ml-0 sm:ml-24">Anuradha Gupta</h1>
+                        <h1 className="text-xl font-bold ml-0 xl:ml-24">Anuradha Gupta</h1>
                         
                         {/* Right - Menu Links */}
-                        <div className="hidden md:flex space-x-10 mr-36">
+                        <div className="hidden md:flex space-x-10 mr-12 xl:mr-40">
                             <a href="#Homeid" className="font-black text-white  no-underline hover:underline">Home</a>
                             <a href="#Aboutid" className="font-black text-white no-underline hover:underline">About</a>
                             <a href="#projectdiv" className="font-black text-white no-underline hover:underline">Projects</a>
